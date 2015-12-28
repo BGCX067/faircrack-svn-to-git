@@ -1,0 +1,29 @@
+N900 Aircrack and faircrack auto installer!
+
+= Introduction =
+
+This is used to install a variety of wifi/network based tools without user intervention.
+This will also modify and update your N900 Kernel to "Kernel-Power-WL1" provided you have the WL1251 Bleeding Edge drivers.
+
+
+= Details =
+
+
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+At this point:
+
+Install *WL1-Bleeding Edge drivers* (need to be in /MyDocs/)
+
+It will automatically download:
+AirCrack-NG
+Python (the right one)
+John the Ripper
+Sudser
+MacChanger
+
+F-Aircrack will be included and:
+Be installed to the correct location.
+Icon added to program list (menu button)
